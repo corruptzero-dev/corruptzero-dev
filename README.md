@@ -8,9 +8,9 @@
 certificates: 
   - 
     Huawei: 
-      - "HCSA IP and Network"
+      - "HCSA - IP and Network"
       - "HCIA - Artificial Intelligence"
-    IBM: "Machine learning in Python"
+    IBM: "Machine learning with Python"
     IC3: "Computing Fundamentals"
     Microsoft: 
       - "Introduction to Programming using Java"
@@ -43,6 +43,7 @@ hobbies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="45" height="45"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/>     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="45" height="45"/>          
 </p>
