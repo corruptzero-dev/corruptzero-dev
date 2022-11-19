@@ -22,9 +22,9 @@ desired_job: "Java Developer"
 education: "ITHub College"
 hobbies: 
   - "Making music"
-  - Skateboarding
-  - Comedy
-  - Psychology
+  - "Skateboarding"
+  - "Comedy"
+  - "Psychology"
 ```
 <h2>Some Tools I Have Used</h2>
 <p align="left">
