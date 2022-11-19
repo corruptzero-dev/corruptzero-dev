@@ -1,7 +1,7 @@
 ### Hi there 👋
-* This github repository is for my educational projects
+# This github repository is for my educational projects
 
-# A Little Bit About Me and My Interests
+### A Little Bit About Me and My Interests
 
 ```yaml
 --- 
