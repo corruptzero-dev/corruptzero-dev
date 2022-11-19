@@ -1,25 +1,22 @@
 ### Hi there 👋
+* This github repository is for my educational projects
 
-
+# A Little Bit About Me and My Interests
 
 ```yaml
 --- 
 certificates: 
   - 
+    Huawei: 
+      1: "HCSA IP and Network"
+      2: "HCIA - Artificial Intelligence"
     IBM: "Machine learning in Python"
-  - 
     IC3: "Computing Fundamentals"
-  - 
+    Microsoft: 
+      1: "Introduction to Programming using Java"
+      2: "Introduction to Programming using Python"
+      3: "Networking Fundamentals"
     Pearson: "English International Certificate Level 3 (B2) - 100/100\""
-  - 
-    1: "Introduction to Programming using Java"
-    2: "Introduction to Programming using Python"
-    3: "Networking Fundamentals"
-    Microsoft: ~
-  - 
-    1: "HCSA IP and Network"
-    2: "HCIA - Artificial Intelligence"
-    Huawei: ~
 currently_learning: "Spring Framework"
 desired_job: "Java Developer"
 education: "ITHub College"
