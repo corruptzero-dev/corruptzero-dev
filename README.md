@@ -16,7 +16,7 @@ certificates:
       - "Introduction to Programming using Java"
       - "Introduction to Programming using Python"
       - "Networking Fundamentals"
-    Pearson: "English International Certificate Level 3 (B2) - 100/100\""
+    Pearson: "English International Certificate Level 3 (B2) - 100/100"
 currently_learning: "Spring Framework"
 desired_job: "Java Developer"
 education: "ITHub College"
