@@ -18,7 +18,9 @@ certificates:
       - "Networking Fundamentals"
     Pearson: "English International Certificate Level 3 (B2) - 100/100"
 currently_learning: "Spring Framework"
-desired_job: "Java Developer"
+job:
+  - company: "RSSU"
+  - position: "Web Developer"
 education: "ITHub College"
 hobbies: 
   - "Making music"
