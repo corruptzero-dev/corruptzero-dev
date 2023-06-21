@@ -20,7 +20,7 @@ certificates:
 currently_learning: "Spring Framework"
 desired_job:
   - company: "{{yourCompanyName}}"
-  - position: "Web Developer"
+  - position: "Java Developer"
 education: "ITHub College"
 hobbies: 
   - "Making music"
