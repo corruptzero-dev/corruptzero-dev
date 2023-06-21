@@ -19,7 +19,6 @@ certificates:
     Pearson: "English International Certificate Level 3 (B2) - 100/100"
 currently_learning: "Spring Framework"
 desired_job:
-  - company: "{{yourCompanyName}}"
   - position: "Java Developer"
 education: "ITHub College"
 hobbies: 
