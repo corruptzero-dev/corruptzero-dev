@@ -48,4 +48,3 @@ hobbies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="45" height="45"/>        
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corruptzero-dev&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
